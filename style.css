@@ -1,0 +1,26 @@
+html{
+    background: url(images/lan-center.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: "Trebuchet MS","Arial","sans-serif";
+}
+.center{
+    text-align: center;
+}
+.textColor{
+    color: blue;
+}
+.textSize{
+    font-size: 72px;
+}
+.timerSize{
+    font-size: 100px;
+}
+.bold{
+    font-weight: bold;
+}
+.topMargin{
+    margin-top: 200px;
+}
