@@ -1,4 +1,4 @@
-let countDownDate = new Date("OCTOBER 25, 2019 12:00:00 GMT+0000").getTime(); //Weekly reset
+let countDownDate = new Date("October 25, 2019 12:00:00 GMT+0000").getTime(); //Weekly reset
 let t = new Date();
 console.log(t.getDay());
 let x = setInterval(function () {
